@@ -6,3 +6,11 @@
 6 use npm run start again to update the server as its not automatically
 7 npm install dotenv to change port
 8 use ctrl + c to exit running app to refresh server
+
+9 now get up ur git ready
+10 add .gitignore with .env and node_modules
+11 git init, git add . 
+12. or make git repo and follow all the steps
+
+https://api.github.com/users/Arisex96
+get api 
